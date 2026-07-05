@@ -1,0 +1,10 @@
+
+numpy
+pandas
+pillow
+matplotlib
+tqdm
+scikit-learn
+insightface
+onnxruntime
+opencv-python
